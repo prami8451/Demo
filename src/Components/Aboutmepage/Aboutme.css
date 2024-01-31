@@ -1,0 +1,42 @@
+.secpage{
+     background: #957AB1;
+ 
+ 
+    height: 100vh; /* Adjust this if needed */
+  }
+
+.about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 5%;
+    font-family: "MonteCarlo";
+    color: aliceblue;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.img img{
+
+    
+    max-width: 100%; /* Set the maximum width to 100% of the container */
+    max-height: 400px; /* Set the maximum height to your preferred value */
+    width: auto;
+    height: auto;
+    /* margin-right: 30rem; */
+ }
+ .double1{
+    height: 80%;
+    
+    display: flex;
+    /* flex-direction: column ; */
+    justify-content: center;
+    align-items: center;
+
+ }
+ .text{
+    margin-left: 5rem;
+    width: 50%;
+    
+ }

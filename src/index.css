@@ -1,0 +1,25 @@
+@font-face {
+    font-family: "Roboto";
+    src: url("./fonts/static/Roboto-Regular.ttf") format("truetype");
+    font-style: italic;
+  }
+  @font-face {
+    font-family: "Comfortaa";
+    src: url("./fonts/static/Comfortaa-Light.ttf") format("truetype");
+  
+  }
+  @font-face {
+    font-family: "Raleway";
+    src: url("./fonts/static/Raleway-Regular.ttf") format("truetype");
+  
+  }
+  @font-face {
+    font-family: "Poppins";
+    src: url("./fonts/static/Poppins-Regular.ttf") format("truetype");
+  
+  }
+  @font-face {
+    font-family: "MonteCarlo";
+    src: url("./fonts/static/MonteCarlo-Regular.ttf") format("truetype");
+  
+  }
